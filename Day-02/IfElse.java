@@ -55,14 +55,14 @@ public class IfElse {
     // }
 // Problem 2
     
-        String meghana = scan.nextLine();
+        // String meghana = scan.nextLine();
 
-        if (meghana.equals("dead")) {
-            System.out.println("Surya meets Ramya");
-        }
-        else{
-            System.out.println("Surya weds meghana");
-        }
+        // if (meghana.equals("dead")) {
+        //     System.out.println("Surya meets Ramya");
+        // }
+        // else{
+        //     System.out.println("Surya weds meghana");
+        // }
     
     
     }

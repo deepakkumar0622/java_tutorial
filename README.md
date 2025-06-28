@@ -2,6 +2,9 @@
 
 Welcome to the **Java Tutorial** repository!
 
+#Simple tip
+-- If you are getting a string as an input after a integer then you must add blank input so that it can't stop the program right there.
+
 #Stack
 --Stores the primitive data types for quick access
 

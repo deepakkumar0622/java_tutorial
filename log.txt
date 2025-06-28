@@ -1,0 +1,13 @@
+Day-1 Topics:
+
+    -print logic
+    -Variables
+    -operators
+    -scanner class
+
+Day-2 Topics:
+    -Data types
+    -if..else statement
+    -comparision operator
+    -Reminder operator
+    -logical operators
