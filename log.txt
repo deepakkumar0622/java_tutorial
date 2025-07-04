@@ -11,3 +11,7 @@ Day-2 Topics:
     -comparision operator
     -Reminder operator
     -logical operators
+
+Day-3 Topics:
+    -Nested if statement
+    -else-if usage
