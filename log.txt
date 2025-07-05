@@ -1,9 +1,8 @@
 Day-1 Topics:
-
     -print logic
     -Variables
     -operators
-    -scanner class
+    -Scanner class
 
 Day-2 Topics:
     -Data types
@@ -15,3 +14,7 @@ Day-2 Topics:
 Day-3 Topics:
     -Nested if statement
     -else-if usage
+    -Ternary operator
+
+Day-4 Topics:
+    

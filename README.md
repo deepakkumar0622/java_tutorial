@@ -10,3 +10,6 @@ Welcome to the **Java Tutorial** repository!
 
 #Heap
 --Stores the Object data Types like string in string pool
+
+#ternary vs ifElse:
+--ternary returns the value and ifElse can't return a value.
