@@ -17,4 +17,9 @@ Day-3 Topics:
     -Ternary operator
 
 Day-4 Topics:
+    -for loop
+
+Day-5 Topics:
+    -Array 
+    -Array with loop
     
