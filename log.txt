@@ -23,8 +23,12 @@ Day-5 Topics:
     -Array 
     -Array with loop
     -Time stamp : 3.37.50
+<<<<<<< HEAD
 
 Day-6 Topics:
     -Nested Loop
 
     
+=======
+Day-6 Topics:
+>>>>>>> b227f97a957edd44be6726deb7154d817aa551f3
