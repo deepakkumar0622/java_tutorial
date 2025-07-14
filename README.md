@@ -13,3 +13,7 @@ Welcome to the **Java Tutorial** repository!
 
 #ternary vs ifElse:
 --ternary returns the value and ifElse can't return a value.
+
+##Classes and Objects:
+--Objects are the instance of classes.
+--Classes are the boilerplates like structure of the whole code.
