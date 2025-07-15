@@ -33,5 +33,8 @@ Day-6 Topics:
 Day-7 Topics:
     -classes and Objects
     -functions
+    -Retrun keyword
+Day-8 Topics:
+    -
 
     
