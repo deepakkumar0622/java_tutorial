@@ -1,7 +1,4 @@
-
-public class QA{
-
-
+public class Summa {
     int num=10;
     
     
@@ -14,15 +11,12 @@ public class QA{
         }
         
     }
-    
     public static void main(String[] args) {
-        
-        
-        QA func1 = new QA();
-        QA func2 = new QA();
+        Summa func = new Summa();
+        // Summa func2 = new Summa();
 
 
-      System.out.println(func1.num);
+      System.out.println(func.num);
 
     //     Scanner s= new Scanner(System.in);
      
@@ -32,9 +26,7 @@ public class QA{
     //  int num=s.nextInt();
 
 
-        func2.evenorodd(10);
+        func.evenorodd(10);
        
-
-
     }
 }
