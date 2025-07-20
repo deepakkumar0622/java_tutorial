@@ -17,7 +17,7 @@ public class Para {
 
         System.out.println("Name: "+obj.name);
         System.out.println("Marks: "+obj.marks);
-
+        
 
     }
 
