@@ -52,5 +52,7 @@ Day-10 Topics:
 
 Day-11 Topics:
     -Inheritance
+    -Types of Inheritance
+    -06.09.00
 
     
