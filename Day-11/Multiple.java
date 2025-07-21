@@ -1,25 +1,31 @@
-class A{
-    int one = 1;
+class Animal{
+    void eats(){
+        System.out.println("This animal eats..");
+    }
 }
 
-class B extends A {
-    int two =2;
+class Dog extends Animal{
+    void Bark(){
+        System.out.println("Barks");
+    }
 }
 
-class C extends B {
-    int three=3;
+class Puppy extends Dog{
+    void Weep(){
+        System.out.println("Weeps");
+    }
 }
-
 
 public class Multiple {
 
     public static void main (String[] args){
 
-        C obj = new C();
-        System.out.println(obj.one);
+        Puppy obj = new Puppy();
+        obj.eats();
+        obj.Bark();
+        obj.Weep();
 
     }
 
 
 }
-
