@@ -69,5 +69,8 @@ Day-13 Topics:
 Day-14 Topics:
     -Interface //OOPS
     -Mulitple Inheritance
+    -Functional Interface
+    -Lambda Function
+    -7.28.22
 
     
