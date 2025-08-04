@@ -75,7 +75,8 @@ Day-14 Topics:
 Day-15 Topics:
     -Exception handling
     -Finally keyword
-    -Throw
+    -Throw keyword
+    -Throws keyword
 
 
     
