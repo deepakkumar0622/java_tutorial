@@ -1,5 +1,4 @@
-import java.io.BufferedWriter;
-import java.io.FileWriter;
+import java.io.*;
 
 public class Read {
 
@@ -7,13 +6,14 @@ public class Read {
 
 
         try {
-            FileWriter file = new FileWriter("output.txt", true);
-            BufferedWriter bw = new BufferedWriter(file);
-            bw.write("Hey Man");
-            bw.newLine();
-            bw.write("Okay");
-            bw.close();
-            System.out.println("Success");
+            FileReader file = new FileReader("output.txt");
+            BufferedReader br = new BufferedReader(file);
+            String line = br.readLine();
+            while(line!=null){
+                System.out.println(line);
+                line=br.readLine();
+            }
+            file.close();
         } catch (Exception e) {
             System.out.println("Failed");
         }
