@@ -81,6 +81,8 @@ Day-15 Topics:
 Day-16 Topics:
     -File handling
     -BufferReader/Writer
-    -Threads
+    -Threads/Runnable Interface
+
+----------------------------------***End of Core Java***----------------------------
 
     
